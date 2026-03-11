@@ -27,6 +27,7 @@ cd ../../
 - Number of queries: the number of random queries
 
 You can edit the parameter θ in the code.
+
 After executions, generated query files are stored as "Datasets/GenQuery/{Graph File}.query"
 
 ## Execute BVUG-OPT
@@ -45,4 +46,5 @@ cd ../
 - Query File: input query filename in "Datasets/"
 
 You can edit the parameter W in the code.
+
 After executions, the logs including running time are written in "Results/Logs.csv"
