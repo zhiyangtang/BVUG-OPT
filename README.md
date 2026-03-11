@@ -3,7 +3,6 @@
 1.'Appendix.pdf' contains the appendix of our paper, which includes some proofs that were omitted from the paper due to space constraints.
 
 2.'BVUG-OPT_code' contains the source codes of our paper and sample datasets and queries. 
-
 To run the codes, please read the following instructions.
 
 ## Datasets
